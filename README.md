@@ -8,6 +8,8 @@ If a target server is vulnerable, this script lets you run operating system comm
 
 This tool is built for learning, CTFs, and responsible security research.
 
+<img width="1919" height="988" alt="Screenshot 2025-12-12 213703" src="https://github.com/user-attachments/assets/e65973c6-a4aa-40ef-958e-bdc9b1e428e8" />
+
 ## ⚠️ Disclaimer for Students & CTF Players
 
 **USE ETHICALLY.** Only run this exploit against systems you own or have explicit, documented permission to test. Unauthorized use is illegal. This tool is for educational purposes only.
